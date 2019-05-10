@@ -2,7 +2,7 @@ package com.ocr.anthony;
 
 public class Order {
     /**
-     * Display all available menus in the restaurant.
+     * Display all available menus in the restauranst.
      */
     public void displayAvailableMenu() {
 
